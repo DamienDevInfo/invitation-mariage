@@ -1,0 +1,10 @@
+.content-secret {
+    text-align: center;
+    align-items: center;
+    margin: 0;
+    height: 100vh;
+    border: 1px solid pink;
+    background-image: url(./pics/fontbackground.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}

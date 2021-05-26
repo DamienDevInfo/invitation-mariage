@@ -1,0 +1,47 @@
+* {
+    margin:0;
+}
+
+button, .btn {
+    text-decoration: none;
+    border: none;
+    background: none;
+    color: #8273EC;
+}
+button:hover , .btn:hover {
+    color: black;
+}
+
+.btnAccueil {
+    text-decoration: none;
+    border: none;
+    background: none;
+    color: white;
+}
+
+.btnAccueil:hover {
+    color: black;
+    font-size: 15px;
+    
+}
+
+.content-reponse {
+    height:100vh;
+    width: 100vh;
+    /* align-items: center; */
+    text-align: center;
+}
+
+.bodyReponse{
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    align-items: center;
+
+    height: 100vh;
+    border: 1px solid pink;
+    background-image: url(./pics/backgroundimagereponse.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
